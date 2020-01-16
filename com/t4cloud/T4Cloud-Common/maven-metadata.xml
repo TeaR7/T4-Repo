@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.t4cloud</groupId>
+  <artifactId>T4Cloud-Common</artifactId>
+  <versioning>
+    <release>Hoxton.SR1.1.0.0</release>
+    <versions>
+      <version>Hoxton.SR1.1.0.0</version>
+    </versions>
+    <lastUpdated>20200116091244</lastUpdated>
+  </versioning>
+</metadata>
